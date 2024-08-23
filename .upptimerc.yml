@@ -11,8 +11,12 @@ sites:
     url: https://cinoche.pantagruweb.club
   - name: Cocagne
     url: https://cocagne.pantagruweb.club
+  - name: N8N
+    url: https://sabine.pantagruweb.club
   - name: Panurge
     url: https://panurge.pantagruweb.club
+  - name: Rclone
+    url: https://rclone.pantagruweb.club
     
 assignees:
   - trivoallan
