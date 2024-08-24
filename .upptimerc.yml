@@ -17,6 +17,8 @@ sites:
     url: https://panurge.pantagruweb.club
   - name: Rclone
     url: https://rclone.pantagruweb.club
+  - name: Téloche
+    url: https://teloche.pantagruweb.club
     
 assignees:
   - trivoallan
