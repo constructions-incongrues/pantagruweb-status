@@ -4,19 +4,19 @@
     "url": "https://pantagruweb.club",
     "icon": "https://icons.duckduckgo.com/ip3/pantagruweb.club.ico",
     "slug": "home",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2330,
-    "timeDay": 2330,
-    "timeWeek": 2330,
-    "timeMonth": 2330,
-    "timeYear": 2330,
+    "status": "up",
+    "uptime": "99.14%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.14%",
+    "uptimeYear": "99.14%",
+    "time": 1876,
+    "timeDay": 1876,
+    "timeWeek": 1876,
+    "timeMonth": 1876,
+    "timeYear": 1876,
     "dailyMinutesDown": {
-      "2024-08-24": 0
+      "2024-08-24": 6
     }
   },
   {
