@@ -11,12 +11,16 @@ sites:
     url: https://cinoche.pantagruweb.club
   - name: Cocagne
     url: https://cocagne.pantagruweb.club
+  - name: Lo Radiator
+    url: https://loradiator.pantagruweb.club
   - name: N8N
     url: https://sabine.pantagruweb.club
   - name: Panurge
     url: https://panurge.pantagruweb.club
   - name: Rclone
     url: https://rclone.pantagruweb.club
+  - name: Tablo
+    url: https://tablo.pantagruweb.club
   - name: Téloche
     url: https://teloche.pantagruweb.club
     
