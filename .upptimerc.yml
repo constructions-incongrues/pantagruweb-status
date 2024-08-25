@@ -19,8 +19,6 @@ sites:
     url: https://panurge.pantagruweb.club
   - name: Rclone
     url: https://rclone.pantagruweb.club
-  - name: Tablo
-    url: https://tablo.pantagruweb.club
   - name: Tentacules
     url: https://pantagruweb.club/tentacules
   - name: Téloche
