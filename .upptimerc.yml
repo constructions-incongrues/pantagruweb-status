@@ -15,8 +15,6 @@ sites:
     url: https://cocagne.pantagruweb.club
   - name: Lo Radiator
     url: https://loradiator.pantagruweb.club
-  - name: N8N
-    url: https://sabine.pantagruweb.club
   - name: Panurge
     url: https://panurge.pantagruweb.club
   - name: Rclone
