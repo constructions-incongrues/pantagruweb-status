@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 916,
-    "timeDay": 711,
-    "timeWeek": 803,
-    "timeMonth": 885,
-    "timeYear": 916,
+    "time": 915,
+    "timeDay": 863,
+    "timeWeek": 807,
+    "timeMonth": 891,
+    "timeYear": 915,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 513,
-    "timeDay": 356,
-    "timeWeek": 443,
-    "timeMonth": 529,
-    "timeYear": 513,
+    "time": 511,
+    "timeDay": 370,
+    "timeWeek": 408,
+    "timeMonth": 530,
+    "timeYear": 511,
     "dailyMinutesDown": {
       "2024-08-27": 138
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 507,
-    "timeDay": 364,
-    "timeWeek": 487,
+    "time": 505,
+    "timeDay": 355,
+    "timeWeek": 474,
     "timeMonth": 519,
-    "timeYear": 507,
+    "timeYear": 505,
     "dailyMinutesDown": {
       "2024-08-27": 138
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 627,
-    "timeDay": 500,
-    "timeWeek": 589,
-    "timeMonth": 661,
-    "timeYear": 627,
+    "time": 625,
+    "timeDay": 509,
+    "timeWeek": 576,
+    "timeMonth": 662,
+    "timeYear": 625,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 336,
-    "timeDay": 254,
-    "timeWeek": 295,
-    "timeMonth": 319,
-    "timeYear": 336,
+    "time": 335,
+    "timeDay": 269,
+    "timeWeek": 291,
+    "timeMonth": 315,
+    "timeYear": 335,
     "dailyMinutesDown": {
       "2024-08-27": 138
     }
@@ -107,8 +107,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 459,
-    "timeDay": 381,
-    "timeWeek": 438,
+    "timeDay": 415,
+    "timeWeek": 432,
     "timeMonth": 468,
     "timeYear": 459,
     "dailyMinutesDown": {}
@@ -124,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 359,
+    "time": 358,
     "timeDay": 261,
-    "timeWeek": 385,
-    "timeMonth": 375,
-    "timeYear": 359,
+    "timeWeek": 376,
+    "timeMonth": 372,
+    "timeYear": 358,
     "dailyMinutesDown": {
       "2024-08-27": 138
     }
@@ -144,11 +144,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 319,
-    "timeDay": 250,
-    "timeWeek": 300,
+    "time": 318,
+    "timeDay": 247,
+    "timeWeek": 295,
     "timeMonth": 325,
-    "timeYear": 319,
+    "timeYear": 318,
     "dailyMinutesDown": {
       "2024-08-27": 138
     }
@@ -164,11 +164,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 565,
-    "timeDay": 391,
-    "timeWeek": 471,
-    "timeMonth": 489,
-    "timeYear": 565,
+    "time": 563,
+    "timeDay": 406,
+    "timeWeek": 461,
+    "timeMonth": 490,
+    "timeYear": 563,
     "dailyMinutesDown": {}
   },
   {
@@ -177,16 +177,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/teloche.pantagruweb.club.ico",
     "slug": "teloche",
     "status": "up",
-    "uptime": "99.35%",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.35%",
-    "time": 845,
-    "timeDay": 497,
-    "timeWeek": 496,
-    "timeMonth": 513,
-    "timeYear": 845,
+    "uptimeYear": "99.36%",
+    "time": 839,
+    "timeDay": 417,
+    "timeWeek": 486,
+    "timeMonth": 514,
+    "timeYear": 839,
     "dailyMinutesDown": {
       "2024-08-24": 631
     }
