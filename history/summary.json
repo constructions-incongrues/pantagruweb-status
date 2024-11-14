@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 917,
-    "timeDay": 1349,
-    "timeWeek": 940,
-    "timeMonth": 884,
-    "timeYear": 917,
+    "time": 915,
+    "timeDay": 749,
+    "timeWeek": 874,
+    "timeMonth": 875,
+    "timeYear": 915,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 519,
-    "timeDay": 543,
-    "timeWeek": 591,
-    "timeMonth": 526,
-    "timeYear": 519,
+    "time": 517,
+    "timeDay": 372,
+    "timeWeek": 469,
+    "timeMonth": 521,
+    "timeYear": 517,
     "dailyMinutesDown": {
       "2024-08-27": 138
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 508,
-    "timeDay": 543,
-    "timeWeek": 540,
-    "timeMonth": 499,
-    "timeYear": 508,
+    "time": 506,
+    "timeDay": 384,
+    "timeWeek": 507,
+    "timeMonth": 494,
+    "timeYear": 506,
     "dailyMinutesDown": {
       "2024-08-27": 138
     }
@@ -63,19 +63,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/crachoir.pantagruweb.club.ico",
     "slug": "crachoir",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 640,
-    "timeDay": 835,
-    "timeWeek": 707,
-    "timeMonth": 667,
-    "timeYear": 640,
-    "dailyMinutesDown": {
-      "2024-11-13": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 639,
+    "timeDay": 671,
+    "timeWeek": 679,
+    "timeMonth": 644,
+    "timeYear": 639,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cocagne",
@@ -88,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 339,
-    "timeDay": 363,
-    "timeWeek": 363,
-    "timeMonth": 330,
-    "timeYear": 339,
+    "time": 338,
+    "timeDay": 262,
+    "timeWeek": 292,
+    "timeMonth": 326,
+    "timeYear": 338,
     "dailyMinutesDown": {
       "2024-08-27": 138
     }
@@ -103,19 +101,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/loradiator.pantagruweb.club.ico",
     "slug": "lo-radiator",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 467,
-    "timeDay": 524,
-    "timeWeek": 502,
-    "timeMonth": 476,
+    "timeDay": 460,
+    "timeWeek": 501,
+    "timeMonth": 475,
     "timeYear": 467,
-    "dailyMinutesDown": {
-      "2024-11-13": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Panurge",
@@ -128,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 365,
-    "timeDay": 670,
-    "timeWeek": 431,
-    "timeMonth": 394,
-    "timeYear": 365,
+    "time": 364,
+    "timeDay": 268,
+    "timeWeek": 410,
+    "timeMonth": 391,
+    "timeYear": 364,
     "dailyMinutesDown": {
       "2024-08-27": 138
     }
@@ -148,11 +144,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 328,
-    "timeDay": 357,
-    "timeWeek": 378,
-    "timeMonth": 345,
-    "timeYear": 328,
+    "time": 326,
+    "timeDay": 169,
+    "timeWeek": 342,
+    "timeMonth": 339,
+    "timeYear": 326,
     "dailyMinutesDown": {
       "2024-08-27": 138
     }
@@ -163,19 +159,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pantagruweb.club.ico",
     "slug": "tentacules",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 559,
-    "timeDay": 545,
-    "timeWeek": 507,
-    "timeMonth": 501,
-    "timeYear": 559,
-    "dailyMinutesDown": {
-      "2024-11-13": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 557,
+    "timeDay": 412,
+    "timeWeek": 485,
+    "timeMonth": 493,
+    "timeYear": 557,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Téloche",
@@ -183,18 +177,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/teloche.pantagruweb.club.ico",
     "slug": "teloche",
     "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.45%",
-    "time": 795,
-    "timeDay": 550,
-    "timeWeek": 514,
-    "timeMonth": 519,
-    "timeYear": 795,
+    "uptime": "99.46%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.46%",
+    "time": 791,
+    "timeDay": 428,
+    "timeWeek": 493,
+    "timeMonth": 512,
+    "timeYear": 791,
     "dailyMinutesDown": {
-      "2024-11-13": 6,
       "2024-08-24": 631
     }
   }
