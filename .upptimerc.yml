@@ -5,10 +5,8 @@ repo: status-pantagruweb # The name of this repository
 sites:
   - name: Home
     url: https://pantagruweb.club
-  - name: Baloche
-    url: https://baloche.pantagruweb.club
-  - name: Cinoche
-    url: https://cinoche.pantagruweb.club
+  - name: Coolections
+    url: https://coolections.pantagruweb.club/identity
   - name: Crachoir
     url: https://crachoir.pantagruweb.club
   - name: Cocagne
