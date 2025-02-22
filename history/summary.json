@@ -24,19 +24,19 @@
     "url": "https://coolections.pantagruweb.club/identity",
     "icon": "https://icons.duckduckgo.com/ip3/coolections.pantagruweb.club.ico",
     "slug": "coolections",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.73%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 465,
     "timeDay": 405,
     "timeWeek": 465,
     "timeMonth": 465,
     "timeYear": 465,
     "dailyMinutesDown": {
-      "2025-02-22": 6
+      "2025-02-22": 0
     }
   },
   {
@@ -108,7 +108,7 @@
     "status": "up",
     "uptime": "90.24%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "23.56%",
+    "uptimeWeek": "23.90%",
     "uptimeMonth": "41.83%",
     "uptimeYear": "90.24%",
     "time": 345,
