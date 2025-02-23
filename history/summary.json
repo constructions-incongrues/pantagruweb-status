@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 963,
-    "timeDay": 1981,
-    "timeWeek": 1210,
-    "timeMonth": 1089,
-    "timeYear": 963,
+    "time": 966,
+    "timeDay": 1215,
+    "timeWeek": 1252,
+    "timeMonth": 1104,
+    "timeYear": 966,
     "dailyMinutesDown": {
       "2025-01-25": 21
     }
@@ -25,39 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/coolections.pantagruweb.club.ico",
     "slug": "coolections",
     "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
-    "time": 432,
-    "timeDay": 371,
-    "timeWeek": 432,
-    "timeMonth": 432,
-    "timeYear": 432,
-    "dailyMinutesDown": {
-      "2025-02-22": 6
-    }
-  },
-  {
-    "name": "Crachoir",
-    "url": "https://crachoir.pantagruweb.club",
-    "icon": "https://icons.duckduckgo.com/ip3/crachoir.pantagruweb.club.ico",
-    "slug": "crachoir",
-    "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
-    "time": 636,
-    "timeDay": 1415,
-    "timeWeek": 775,
-    "timeMonth": 657,
-    "timeYear": 636,
-    "dailyMinutesDown": {
-      "2025-01-25": 21
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 477,
+    "timeDay": 446,
+    "timeWeek": 477,
+    "timeMonth": 477,
+    "timeYear": 477,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cocagne",
@@ -70,34 +48,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 335,
-    "timeDay": 705,
-    "timeWeek": 394,
-    "timeMonth": 351,
-    "timeYear": 335,
+    "time": 336,
+    "timeDay": 511,
+    "timeWeek": 431,
+    "timeMonth": 362,
+    "timeYear": 336,
     "dailyMinutesDown": {
       "2025-01-11": 44,
       "2024-08-27": 138
-    }
-  },
-  {
-    "name": "Lo Radiator",
-    "url": "https://loradiator.pantagruweb.club",
-    "icon": "https://icons.duckduckgo.com/ip3/loradiator.pantagruweb.club.ico",
-    "slug": "lo-radiator",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
-    "time": 472,
-    "timeDay": 592,
-    "timeWeek": 513,
-    "timeMonth": 493,
-    "timeYear": 472,
-    "dailyMinutesDown": {
-      "2025-01-25": 21
     }
   },
   {
@@ -106,15 +64,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/panurge.pantagruweb.club.ico",
     "slug": "panurge",
     "status": "up",
-    "uptime": "90.24%",
+    "uptime": "90.27%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "23.95%",
+    "uptimeWeek": "31.39%",
     "uptimeMonth": "41.83%",
-    "uptimeYear": "90.24%",
+    "uptimeYear": "90.27%",
     "time": 345,
-    "timeDay": 435,
-    "timeWeek": 348,
-    "timeMonth": 331,
+    "timeDay": 373,
+    "timeWeek": 358,
+    "timeMonth": 336,
     "timeYear": 345,
     "dailyMinutesDown": {
       "2025-02-20": 1168,
@@ -150,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 362,
-    "timeDay": 1366,
-    "timeWeek": 472,
+    "time": 361,
+    "timeDay": 327,
+    "timeWeek": 462,
     "timeMonth": 378,
-    "timeYear": 362,
+    "timeYear": 361,
     "dailyMinutesDown": {
       "2025-01-11": 44,
       "2024-08-27": 138
@@ -171,11 +129,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 523,
-    "timeDay": 608,
-    "timeWeek": 529,
-    "timeMonth": 502,
-    "timeYear": 523,
+    "time": 522,
+    "timeDay": 442,
+    "timeWeek": 521,
+    "timeMonth": 501,
+    "timeYear": 522,
     "dailyMinutesDown": {
       "2025-01-25": 21
     }
@@ -192,9 +150,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.75%",
     "time": 644,
-    "timeDay": 643,
-    "timeWeek": 542,
-    "timeMonth": 520,
+    "timeDay": 566,
+    "timeWeek": 559,
+    "timeMonth": 526,
     "timeYear": 644,
     "dailyMinutesDown": {
       "2025-01-25": 21,
