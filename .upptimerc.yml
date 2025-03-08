@@ -11,10 +11,6 @@ sites:
     url: https://cocagne.pantagruweb.club
   - name: Panurge
     url: https://panurge.pantagruweb.club
-  - name: Rclone
-    url: https://rclone.pantagruweb.club
-  - name: Tentacules
-    url: https://pantagruweb.club/tentacules
   - name: Téloche
     url: https://teloche.pantagruweb.club
     
