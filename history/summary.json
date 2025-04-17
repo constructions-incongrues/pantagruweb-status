@@ -4,10 +4,10 @@
     "url": "https://pantagruweb.club",
     "icon": "https://icons.duckduckgo.com/ip3/pantagruweb.club.ico",
     "slug": "home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 915,
@@ -16,6 +16,7 @@
     "timeMonth": 610,
     "timeYear": 915,
     "dailyMinutesDown": {
+      "2025-04-17": 2,
       "2025-01-25": 21
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://coolections.pantagruweb.club/identity",
     "icon": "https://icons.duckduckgo.com/ip3/coolections.pantagruweb.club.ico",
     "slug": "coolections",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 798,
@@ -36,6 +37,7 @@
     "timeMonth": 449,
     "timeYear": 798,
     "dailyMinutesDown": {
+      "2025-04-17": 1,
       "2025-03-08": 18
     }
   },
@@ -44,9 +46,9 @@
     "url": "https://cocagne.pantagruweb.club",
     "icon": "https://icons.duckduckgo.com/ip3/cocagne.pantagruweb.club.ico",
     "slug": "cocagne",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.93%",
@@ -56,6 +58,7 @@
     "timeMonth": 536,
     "timeYear": 389,
     "dailyMinutesDown": {
+      "2025-04-17": 1,
       "2025-04-12": 39,
       "2025-03-08": 30,
       "2025-01-11": 44,
@@ -67,9 +70,9 @@
     "url": "https://panurge.pantagruweb.club",
     "icon": "https://icons.duckduckgo.com/ip3/panurge.pantagruweb.club.ico",
     "slug": "panurge",
-    "status": "up",
+    "status": "down",
     "uptime": "92.45%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.45%",
@@ -79,6 +82,7 @@
     "timeMonth": 421,
     "timeYear": 363,
     "dailyMinutesDown": {
+      "2025-04-17": 0,
       "2025-02-20": 1168,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
