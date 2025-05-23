@@ -94,9 +94,9 @@
     "url": "https://hello.pantagruweb.club",
     "icon": "https://icons.duckduckgo.com/ip3/hello.pantagruweb.club.ico",
     "slug": "hello",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
@@ -106,6 +106,7 @@
     "timeMonth": 417,
     "timeYear": 417,
     "dailyMinutesDown": {
+      "2025-05-23": 0,
       "2025-05-16": 25
     }
   },
