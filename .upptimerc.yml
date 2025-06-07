@@ -5,10 +5,10 @@ repo: status-pantagruweb # The name of this repository
 sites:
   - name: Home
     url: https://pantagruweb.club
-  - name: Coolections
-    url: https://coolections.pantagruweb.club/identity
-  - name: Cocagne
-    url: https://cocagne.pantagruweb.club
+  - name: Audio
+    url: https://audio.pantagruweb.club/identity
+  - name: Video
+    url: https://video.pantagruweb.club/identity
   - name: Gargamelle
     url: https://gargamelle.pantagruweb.club
   - name: Hello
