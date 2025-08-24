@@ -10,7 +10,7 @@ sites:
   - name: Gargamelle
     url: https://gargamelle.pantagruweb.club
   - name: Hello
-    url: https://hello.pantagruweb.club
+    url: https://hello.pantagruweb.club/login
   - name: Panurge
     url: https://panurge.pantagruweb.club
   - name: Téloche
