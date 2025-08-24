@@ -5,10 +5,8 @@ repo: status-pantagruweb # The name of this repository
 sites:
   - name: Home
     url: https://pantagruweb.club
-  - name: Audio
-    url: https://audio.pantagruweb.club/identity
-  - name: Video
-    url: https://video.pantagruweb.club/identity
+  - name: Archive
+    url: https://archive.pantagruweb.club/identity
   - name: Gargamelle
     url: https://gargamelle.pantagruweb.club
   - name: Hello
