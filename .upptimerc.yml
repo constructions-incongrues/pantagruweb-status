@@ -15,6 +15,8 @@ sites:
     url: https://stats.pantagruweb.club
   - name: Téloche
     url: https://teloche.pantagruweb.club
+  - name: Oyez
+    url: https://oyez.pantagruweb.club/status
     
 assignees:
   - trivoallan
