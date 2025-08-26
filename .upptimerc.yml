@@ -7,12 +7,12 @@ sites:
     url: https://pantagruweb.club
   - name: Archive
     url: https://archive.pantagruweb.club/identity
-  - name: Gargamelle
-    url: https://gargamelle.pantagruweb.club
   - name: Hello
     url: https://hello.pantagruweb.club/login
   - name: Panurge
     url: https://panurge.pantagruweb.club
+  - name: Stats
+    url: https://stats.pantagruweb.club
   - name: Téloche
     url: https://teloche.pantagruweb.club
     
