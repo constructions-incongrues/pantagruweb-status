@@ -1,7 +1,7 @@
-url: https://stats.pantagruweb.club
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-09-10T23:02:23.246Z
+url: https://stats.pantagruweb.club/auth/login
+status: up
+code: 200
+responseTime: 365
+lastUpdated: 2025-09-11T18:12:19.839Z
 startTime: 2025-08-26T01:41:15.102Z
 generator: Upptime <https://github.com/upptime/upptime>
