@@ -11,6 +11,9 @@ sites:
     url: https://hello.pantagruweb.club/login
   - name: Kiosque
     url: https://kiosque.pantagruweb.club
+    assignees:
+      - nota2k
+      - trivoallan
   - name: Oyez
     url: https://oyez.pantagruweb.club/status
   - name: Panurge
@@ -21,7 +24,6 @@ sites:
     url: https://stats.pantagruweb.club/auth/login
   - name: Téloche
     url: https://teloche.pantagruweb.club
-
     
 assignees:
   - trivoallan
