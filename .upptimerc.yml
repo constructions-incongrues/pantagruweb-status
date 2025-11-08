@@ -9,14 +9,19 @@ sites:
     url: https://archive.pantagruweb.club/identity
   - name: Hello
     url: https://hello.pantagruweb.club/login
+  - name: Kiosque
+    url: https://kiosque.pantagruweb.club
+  - name: Oyez
+    url: https://oyez.pantagruweb.club/status
   - name: Panurge
     url: https://panurge.pantagruweb.club
+  - name: Papiers
+    url: https://papiers.pantagruweb.club/accounts/login/?next=/
   - name: Stats
     url: https://stats.pantagruweb.club/auth/login
   - name: Téloche
     url: https://teloche.pantagruweb.club
-  - name: Oyez
-    url: https://oyez.pantagruweb.club/status
+
     
 assignees:
   - trivoallan
