@@ -314,19 +314,19 @@
     "url": "https://papiers.pantagruweb.club/accounts/login/?next=/",
     "icon": "https://icons.duckduckgo.com/ip3/papiers.pantagruweb.club.ico",
     "slug": "papiers",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 458,
-    "timeDay": 392,
-    "timeWeek": 426,
-    "timeMonth": 445,
+    "timeDay": 423,
+    "timeWeek": 432,
+    "timeMonth": 446,
     "timeYear": 458,
     "dailyMinutesDown": {
-      "2026-02-16": 0,
+      "2026-02-16": 11,
       "2026-01-20": 24
     }
   },
@@ -338,8 +338,8 @@
     "status": "down",
     "uptime": "99.11%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "78.51%",
-    "uptimeMonth": "95.06%",
+    "uptimeWeek": "78.40%",
+    "uptimeMonth": "95.03%",
     "uptimeYear": "99.11%",
     "time": 456,
     "timeDay": 0,
@@ -347,7 +347,7 @@
     "timeMonth": 435,
     "timeYear": 456,
     "dailyMinutesDown": {
-      "2026-02-16": 1322,
+      "2026-02-16": 1333,
       "2026-02-15": 844,
       "2025-08-26": 73
     }
