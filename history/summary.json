@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pantagruweb.club.ico",
     "slug": "home",
     "status": "up",
-    "uptime": "89.08%",
+    "uptime": "89.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.44%",
+    "uptimeYear": "99.61%",
     "time": 350,
     "timeDay": 106,
     "timeWeek": 184,
@@ -26,12 +26,12 @@
     "url": "https://archive.pantagruweb.club/identity",
     "icon": "https://icons.duckduckgo.com/ip3/archive.pantagruweb.club.ico",
     "slug": "archive",
-    "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.64%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.63%",
     "time": 482,
     "timeDay": 312,
     "timeWeek": 390,
@@ -45,7 +45,8 @@
       "2026-01-11": 51,
       "2026-01-24": 239,
       "2026-02-07": 159,
-      "2026-02-08": 1043
+      "2026-02-08": 1043,
+      "2026-08-24": 25
     }
   },
   {
@@ -53,12 +54,12 @@
     "url": "https://hello.pantagruweb.club/login",
     "icon": "https://icons.duckduckgo.com/ip3/hello.pantagruweb.club.ico",
     "slug": "hello",
-    "status": "up",
-    "uptime": "81.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.80%",
+    "status": "down",
+    "uptime": "81.33%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 531,
     "timeDay": 339,
     "timeWeek": 461,
@@ -66,7 +67,8 @@
     "timeYear": 535,
     "dailyMinutesDown": {
       "2025-10-30": 77,
-      "2026-01-11": 51
+      "2026-01-11": 51,
+      "2026-08-24": 20
     }
   },
   {
@@ -94,19 +96,20 @@
     "url": "https://oyez.pantagruweb.club/status",
     "icon": "https://icons.duckduckgo.com/ip3/oyez.pantagruweb.club.ico",
     "slug": "oyez",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 881,
     "timeDay": 607,
     "timeWeek": 781,
     "timeMonth": 821,
     "timeYear": 881,
     "dailyMinutesDown": {
-      "2026-02-23": 20
+      "2026-02-23": 20,
+      "2026-08-24": 15
     }
   },
   {
@@ -114,29 +117,31 @@
     "url": "https://panurge.pantagruweb.club",
     "icon": "https://icons.duckduckgo.com/ip3/panurge.pantagruweb.club.ico",
     "slug": "panurge",
-    "status": "up",
+    "status": "down",
     "uptime": "97.54%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 463,
     "timeDay": 343,
     "timeWeek": 419,
     "timeMonth": 429,
     "timeYear": 452,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-24": 10
+    }
   },
   {
     "name": "Papiers",
     "url": "https://papiers.pantagruweb.club/accounts/login/?next=/",
     "icon": "https://icons.duckduckgo.com/ip3/papiers.pantagruweb.club.ico",
     "slug": "papiers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 456,
     "timeDay": 331,
@@ -144,7 +149,8 @@
     "timeMonth": 423,
     "timeYear": 456,
     "dailyMinutesDown": {
-      "2026-01-20": 24
+      "2026-01-20": 24,
+      "2026-08-24": 5
     }
   },
   {
@@ -153,11 +159,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/stats.pantagruweb.club.ico",
     "slug": "stats",
     "status": "down",
-    "uptime": "47.74%",
+    "uptime": "47.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "47.74%",
+    "uptimeYear": "47.66%",
     "time": 456,
     "timeDay": 0,
     "timeWeek": 0,
@@ -165,7 +171,7 @@
     "timeYear": 456,
     "dailyMinutesDown": {
       "2025-08-26": 73,
-      "2026-08-24": 56,
+      "2026-08-24": 953,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
