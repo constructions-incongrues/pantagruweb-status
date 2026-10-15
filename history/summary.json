@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 319,
     "timeDay": 317,
-    "timeWeek": 352,
+    "timeWeek": 361,
     "timeMonth": 378,
     "timeYear": 285,
     "dailyMinutesDown": {
@@ -25,14 +25,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/archive.pantagruweb.club.ico",
     "slug": "archive",
     "status": "down",
-    "uptime": "99.67%",
-    "uptimeDay": "98.21%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.64%",
+    "uptime": "99.65%",
+    "uptimeDay": "93.43%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.63%",
     "time": 480,
     "timeDay": 0,
-    "timeWeek": 431,
+    "timeWeek": 432,
     "timeMonth": 475,
     "timeYear": 483,
     "dailyMinutesDown": {
@@ -44,7 +44,7 @@
       "2026-02-07": 159,
       "2026-02-08": 1043,
       "2026-08-24": 71,
-      "2026-10-15": 26
+      "2026-10-15": 95
     }
   },
   {
@@ -53,21 +53,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/hello.pantagruweb.club.ico",
     "slug": "hello",
     "status": "down",
-    "uptime": "83.14%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.96%",
+    "uptime": "83.13%",
+    "uptimeDay": "93.76%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.95%",
     "time": 535,
     "timeDay": 0,
-    "timeWeek": 572,
+    "timeWeek": 592,
     "timeMonth": 539,
     "timeYear": 546,
     "dailyMinutesDown": {
       "2025-10-30": 77,
       "2026-01-11": 51,
       "2026-08-24": 66,
-      "2026-10-15": 21
+      "2026-10-15": 90
     }
   },
   {
@@ -83,7 +83,7 @@
     "uptimeYear": "99.99%",
     "time": 152,
     "timeDay": 175,
-    "timeWeek": 177,
+    "timeWeek": 143,
     "timeMonth": 169,
     "timeYear": 152,
     "dailyMinutesDown": {
@@ -96,20 +96,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/oyez.pantagruweb.club.ico",
     "slug": "oyez",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "94.11%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.97%",
     "time": 973,
     "timeDay": 38212,
-    "timeWeek": 5635,
+    "timeWeek": 6302,
     "timeMonth": 2143,
     "timeYear": 983,
     "dailyMinutesDown": {
       "2026-02-23": 20,
       "2026-08-24": 61,
-      "2026-10-15": 16
+      "2026-10-15": 85
     }
   },
   {
@@ -118,19 +118,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/panurge.pantagruweb.club.ico",
     "slug": "panurge",
     "status": "down",
-    "uptime": "97.70%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "97.69%",
+    "uptimeDay": "94.52%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.97%",
     "time": 453,
     "timeDay": 0,
-    "timeWeek": 494,
+    "timeWeek": 485,
     "timeMonth": 466,
     "timeYear": 451,
     "dailyMinutesDown": {
       "2026-08-24": 56,
-      "2026-10-15": 10
+      "2026-10-15": 79
     }
   },
   {
@@ -139,20 +139,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/papiers.pantagruweb.club.ico",
     "slug": "papiers",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "94.85%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.97%",
     "time": 456,
     "timeDay": 0,
-    "timeWeek": 451,
+    "timeWeek": 454,
     "timeMonth": 459,
     "timeYear": 456,
     "dailyMinutesDown": {
       "2026-01-20": 24,
       "2026-08-24": 52,
-      "2026-10-15": 5
+      "2026-10-15": 74
     }
   },
   {
@@ -161,14 +161,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/stats.pantagruweb.club.ico",
     "slug": "stats",
     "status": "down",
-    "uptime": "52.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "46.54%",
+    "uptime": "52.96%",
+    "uptimeDay": "95.19%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "46.52%",
     "time": 454,
     "timeDay": 0,
-    "timeWeek": 436,
+    "timeWeek": 439,
     "timeMonth": 454,
     "timeYear": 458,
     "dailyMinutesDown": {
@@ -368,7 +368,7 @@
       "2026-02-17": 1440,
       "2026-02-16": 1440,
       "2026-02-15": 844,
-      "2026-10-15": 0
+      "2026-10-15": 69
     }
   },
   {
@@ -384,7 +384,7 @@
     "uptimeYear": "99.82%",
     "time": 549,
     "timeDay": 992,
-    "timeWeek": 634,
+    "timeWeek": 646,
     "timeMonth": 554,
     "timeYear": 551,
     "dailyMinutesDown": {
